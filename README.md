@@ -104,14 +104,6 @@ This dashboard provides executive-level visibility while allowing users to drill
 
 ---
 
-## Case Study
-
-📄 **Healthcare Revenue Cycle Dashboard Case Study**
-
-A detailed case study is included in this repository documenting the business problem, dashboard development process, methodology, key insights, business recommendations, and project reflection.
-
----
-
 ## Prepared By
 
 **Zayna Thompson**
